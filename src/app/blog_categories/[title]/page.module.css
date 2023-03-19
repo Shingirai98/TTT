@@ -1,0 +1,50 @@
+.pageTitle {
+    color: #151D5E;
+    text-align: center;
+}
+.pageTitle span{
+    color: #8C261E;;
+}
+
+.tablets {
+    display: flex;
+}
+
+.tablet{
+    flex: 1;
+    background-color: white;
+    border-radius: .40rem;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+    border: 1px solid #151D5E;
+    padding: 20px;
+    margin: 2rem;
+    margin-left: 4rem;
+    margin-right: 4rem;
+    color: #151D5E;
+    display: flex;
+}
+
+.tablet .textArea{
+    text-align:end;
+    padding-right: 2rem;
+    text-decoration: none;
+}
+.profilePic{
+    width: 40rem;
+    height:15rem;
+  }
+
+  .returnButton{
+    text-align: center;
+    padding: 2rem;
+    
+}
+
+.returnButton button{
+background-color: #8C261E;
+  color: white;
+  padding: 0.5rem;
+  padding-left: 1.5rem;
+  padding-right: 1.5rem;
+  border-radius: 0.9rem;
+}

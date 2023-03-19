@@ -1,0 +1,52 @@
+.pageTitle{
+    text-align: center;
+}
+.tablets{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: start;
+    
+}
+
+.tablet{
+    background-color: white;
+    border-radius: 1.0rem;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+    border: 1px solid #151D5E;
+    padding: 3rem;
+    margin: 4rem;
+    color: #151D5E;
+    width: 12rem;
+    height: 10rem;
+}
+
+.categoryTitle{
+    text-align: center;
+    font-size: 1.5rem;
+    font-weight: 900;
+    padding-bottom: 1rem;
+}
+
+.blogImage{
+    display: block;
+    margin: auto;
+}
+.description{
+    text-align: center;
+}
+.categoryButton{
+    text-align: center;
+    padding-top: 1rem;
+    
+}
+
+.categoryButton button{
+    background-color: #8C261E;
+    color: white;
+    color: white;
+    padding: 0.5rem;
+    padding-left: 1.5rem;
+    padding-right: 1.5rem;
+    border-radius: 0.9rem;
+  
+}
